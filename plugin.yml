@@ -1,0 +1,9 @@
+name: PluginName
+author: AuthorName
+version: 1.0 #Or what ever you want
+main: me.PluginName.InGameName.Main
+commands:
+  commandName:
+    usage: /<command>
+    description: Description
+    #permission: permissionName (Not required only if you want)
